@@ -90,3 +90,32 @@
 );
 
 }
+
+.mt{
+    margin-top: 10px;
+}
+.photo-set{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     width: 1280px;
+    
+    
+    
+}
+.box-img{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 15px;
+}
+img{
+    border-radius: 10px;
+    margin-bottom: 15px;
+    transition-property: transform;
+}
+img:hover{
+    transform: scale(1.1);
+    // transform: rotate(360deg);
+    transition-duration: 500ms;
+  }
