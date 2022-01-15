@@ -1,0 +1,14 @@
+.gallery__container{
+    background-color: red;
+    width:364px ;
+    margin: 0 auto;
+    
+
+}
+.gallery__png{
+    display: block;
+    width: 320px;
+    min-width: 320px;
+   
+}
+   
