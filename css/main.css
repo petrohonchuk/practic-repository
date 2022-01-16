@@ -1,5 +1,4 @@
 .gallery__container {
-  margin: 0 auto;
   background-image: linear-gradient(to bottom, #FFF5F6 40%, #ffffff 40%, #ffffff 60%);
   display: flex;
   align-items: center;
@@ -12,6 +11,7 @@
     width: 480px;
     padding-left: 30px;
     padding-right: 30px;
+    margin: 0 auto;
   }
 }
 
@@ -39,8 +39,6 @@
 
 .gallery__box-img {
   display: block;
-  width: auto;
-  max-width: 320px;
   padding: 0 5px;
 }
 
@@ -82,7 +80,6 @@
 
 .gradient {
   margin: 0 auto;
-  outline: 1px solid red;
   background-image: linear-gradient(to bottom, #FFF5F6 40%, #ffffff 40%, #ffffff 60%);
 }
 /*# sourceMappingURL=main.css.map */
