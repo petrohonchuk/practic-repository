@@ -82,4 +82,32 @@
   margin: 0 auto;
   background-image: linear-gradient(to bottom, #FFF5F6 40%, #ffffff 40%, #ffffff 60%);
 }
+
+.b-tn {
+  background-color: #683edb;
+  display: block;
+  width: 80px;
+  height: 40px;
+  margin: 0 auto;
+  margin-top: 30px;
+  border-radius: 4px;
+}
+
+.a {
+  width: 100%;
+  height: 4px;
+  background-color: darkcyan;
+  margin-bottom: 30px;
+}
+
+.o {
+  background-color: chartreuse;
+  display: block;
+  width: 580px;
+  height: 200px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+@keyframes animation {}
 /*# sourceMappingURL=main.css.map */
