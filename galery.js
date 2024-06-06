@@ -124,8 +124,6 @@
     //     console.log(`ЗП работника - ${i} : ${salary}`)
 
     //     totalSalary = totalSalary + salary;
-
-       
     // }
     // console.log(totalSalary)
 
@@ -155,9 +153,8 @@
     // for (let i = 0; i <= max; i += 1 ){
     //     console.log(i);
     //     if (i % 2 !== 0){
-    //         console.log("Hе четное")
+    //         console.log(`Hе четное ${i}`)
     //         continue;
-            
     //     }
 
     //     console.log(`Четное ${i}`)
@@ -459,7 +456,7 @@
 //      console.log(hexColors);
 //      console.log(rgbColors);
 
-  // ===============================================================
+//   ===============================================================
 
 
 
