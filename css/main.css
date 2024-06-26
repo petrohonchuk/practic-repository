@@ -72,7 +72,7 @@
   margin: 0 auto;
   background-image: linear-gradient(to bottom, #FFF5F6 40%, #ffffff 40%, #ffffff 60%);
 }
-
+/* ============================================================================================================================= */
 .b-tn {
   background-color: #683edb;
   display: block;
@@ -123,9 +123,9 @@
   animation-timing-function: linear;
 }
 
-.b-ox :nth-child(4) {
+/* .b-ox :nth-child(4) {
   animation-name: animation;
   animation-duration: 10s;
   animation-timing-function: linear;
-}
+} */
 /*# sourceMappingURL=main.css.map */

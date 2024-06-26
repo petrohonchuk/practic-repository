@@ -243,7 +243,35 @@
 // }
 // makeNegative(72);
 
+// let words = ['hello', 'world', 'this', 'is', 'great'];
+// function smash (words) {
+//     // return words.join("");
+//     console.log (words.join(" "));
+//  };
+//  smash(words);
+
+
+// const sheep = [true,  true,  true,  false,
+//     true,  true,  true,  true ,
+//     true,  false, true,  false,
+//     true,  false, false, true ,
+//     true,  true,  true,  true ,
+//     false, false, true,  true]
+
+//     function countSheeps(sheep) {
+//         let result = [];
+//          for (let i = 0; i < sheep.length; i+=1) {
+//            if ( sheep[i] === true ) {
+//               result.push(sheep[i]);
+//            } 
+//          }
+//          console.log (result.length);
+//         //  turn result.length;
+//        };
+//        countSheeps(sheep);
+
+
+
 
 // =============================================== цикл for ====================================================
-
 
