@@ -180,7 +180,7 @@
 
 
 
-// ============================================ цикл фор іч ==============================================================
+// ============================================ метод фор іч ==============================================================
 
 
 // let number = [5, 1, 5, 23, 24, 44, 869, 1089,];
@@ -254,6 +254,7 @@
 // const sheep = [true,  true,  true,  false,
 //     true,  true,  true,  true ,
 //     true,  false, true,  false,
+//     true,  true,  true,  true ,
 //     true,  false, false, true ,
 //     true,  true,  true,  true ,
 //     false, false, true,  true]
@@ -271,7 +272,28 @@
 //        countSheeps(sheep);
 
 
+const word = `wertfgcbfgtryhdgf`;
+
+function findMiddleCharacters(word) {
+    const middleIndex = Math.floor(word.length / 2);
+  
+    // Якщо довжина слова непарна, повертаємо один символ
+    if (word.length % 2 !== 0) {
+    //   return word[middleIndex];
+      console.log ([middleIndex]);
+    }
+  
+    // Якщо довжина слова парна, повертаємо два символи
+    // return word.slice(middleIndex - 1, middleIndex + 1);
+    console.log (word.slice(middleIndex - 1, middleIndex + 1));
+  };
+
+  findMiddleCharacters(word);
+
+  console.log (word[3]);
 
 
-// =============================================== цикл for ====================================================
 
+
+
+ 

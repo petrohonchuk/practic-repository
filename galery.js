@@ -452,15 +452,22 @@
 //      for(let color of colors){
 //         hexColors.push(color.hex)
 //         rgbColors.push(color.rgb)
-//      }
-//      console.log(hexColors);
+//     }
+
+//     console.log(hexColors);
 //      console.log(rgbColors);
-
 //   ===============================================================
+// const numbers  = [1, 3, -5, 12, 3, -2, 4]
+// function squareSum(numbers ){
+//   const sum = numbers.map(value  => value  * value );
+//   const totalSum = sum.reduce((previousValue, number) => {
+//     return previousValue + number;
+//   }, 0);
+//   return (totalSum);
+// };
+// squareSum(numbers);
+// =============================================================================
 
-
-
-  
 
      
   
